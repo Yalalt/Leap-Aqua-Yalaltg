@@ -7,4 +7,6 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 2. We Promote for Career - Bootstrap дээр хийх даалгаврын:
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/promote-career)
 - Deploy web link: [open Github Pages](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/promote-career/index.html)
-.
+3. Color rows using Bootstrap Даалгавар:
+- File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/color-rows)
+- Deploy web link: [open Github Pages](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/color-rows/index.html)
