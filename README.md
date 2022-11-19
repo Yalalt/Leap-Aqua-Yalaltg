@@ -10,3 +10,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 3. Color rows using Bootstrap Даалгавар:
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/color-rows)
 - Deploy web link: [open Github Pages](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/color-rows/index.html)
+4. Admin хэсэгтэй Ангилал нэмэх хасах хэсгийг хийв
+- File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/bootstrap/admin/index.html)
+- Deploy web link: [open Github Pages](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/admin/index.html)
+
