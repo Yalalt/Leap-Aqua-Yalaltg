@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.bg-dark {
+    background-color: rgb(21, 21, 21);
+}
+
+@media screen and (max-width: 960px) {
+    
+}
