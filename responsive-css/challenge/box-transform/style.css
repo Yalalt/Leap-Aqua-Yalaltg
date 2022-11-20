@@ -42,13 +42,13 @@ body {
 
 .box-cover {
     display: inline-block;
-    background-color: rgb(199, 199, 199);
-    opacity: 0.8;
+    background-color: rgb(27, 27, 27);
+    opacity: 0.5;
     width: 200px;
     height: 200px;
     z-index: 2;
     transform: scale(1) translateX(0) translateY(0) rotate(0);
-    transition: all 1s;
+    transition: all 0.5s;
 }
 
 
