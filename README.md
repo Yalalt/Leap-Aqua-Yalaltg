@@ -24,4 +24,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/cardy/index.html  
 8. Showcase assignment хэсгийг харах бол:
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/showcase)
-- open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/showcase/index.html  
+- open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/showcase/index.html
+9. Banner assignment хэсгийг харах бол:
+- File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/bootstrap/responsive-web/banner/index.html)
+- open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/responsive-web/banner/index.html
