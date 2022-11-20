@@ -19,3 +19,6 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 6. Moon picture overlay on card assignment:
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/moon)
 - open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/moon/index.html  
+7. Three color bg-тэй Card assignment:
+- File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/cardy)
+- open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/cardy/index.html  
