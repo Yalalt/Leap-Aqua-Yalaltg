@@ -1,0 +1,128 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(32, 32, 32);
+}
+
+.container {
+    max-width: 1290px;
+    margin: 0 auto;
+}
+
+.bg-img {
+    background-image: url('../../images/photo-1523240795612-9a054b0db644.avif');
+    background-color: rgb(82, 22, 22);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: luminosity;
+    background-size: cover;
+}
+
+.bg-form-field {
+    max-width: 470px;
+    min-height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 1rem;
+}
+.bg-form-field h1, .bg-form-field h5 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-label {
+    display: block;
+    width: 100%;
+}
+
+.form-item {
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+    line-height: 2;
+    border: 1px solid #fff;
+}
+
+.form-item-button {
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+    line-height: 2;
+    border: 1px solid #fff;
+}
+
+
+.form-item-button:hover {
+    cursor: pointer;
+    background-color: rgb(228, 228, 228);
+}
+
+.form-item:valid {
+    border: 3px solid lightgreen;
+}
+
+.form-item:invalid {
+    border: 3px solid rgb(253, 0, 84);
+}
+
+.form-label::after {
+    content: " *";
+    color: red;
+}
+
+.parent-div {
+    position: relative;
+    margin: 1rem 0;
+    min-height: 1000px;
+    width: 100%;
+    min-width: 500px;
+    padding-bottom: 2rem;
+}
+
+.text-form {
+    position: absolute;
+    z-index: 9;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0.8rem;
+    color: #fff;
+}
+
+.bg-purple {
+    position: absolute;
+    background-color: purple;
+    border-radius: 10px;
+    opacity: 0.5;
+    height: 95%;
+    width: 100%;
+    z-index: 1;
+}
+
+fieldset {
+    padding: 0.5rem 1rem;
+}
+
+.form-control {
+    margin: 1rem 0;
+    
+}
+
+.shadow {
+    text-shadow: 2px -2px rgb(94, 94, 94);
+}
+
+.text-center::placeholder {
+    text-align: center;
+    padding-top: 1rem;
+}
