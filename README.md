@@ -16,4 +16,6 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 5. Sign In цонх 
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/sign-in)
 - open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/sign-in/index.html  
-
+6. Moon picture overlay on card assignment:
+- File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/moon)
+- open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/moon/index.html  
