@@ -38,3 +38,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/box-transform/)
 - open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box-transform/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box-transform/index.html)
+
+12. **Toggle Button transition transform ашиглан хийв:**
+- File location link: [<img src="./images/thumb_boxtransformImagesAnimals.jpg" width="100" heigth="100"/>](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/toggleButton/)
+- open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box-transform/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/toggleButton/index.html)
