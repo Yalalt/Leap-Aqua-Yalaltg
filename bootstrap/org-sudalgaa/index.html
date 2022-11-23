@@ -51,19 +51,18 @@
 
     <!-- MAin -->
     <section class="py-5 text-center">
-      <div class="container bg-light">
+      <div class="container bg-light rounded">
         <form action="#">
-          <div class="form-body container-md">
-            <div class="row info-name">
-              <h5 class="mt-3">
+          <div class="form-body container-md pt-0 pt-md-5">
+              <h4 class="fw-lighter">
                 Байгууллагын дотоод үйл ажиллагаанд зориулсан судалгаанд тавтай
                 морил
-              </h5>
+              </h4>
               <div class="form-content border-bottom border-secondary my-3">
-                <h6 class="text-start">Ерөнхий мэдээлэл</h6>
+                <h6 class="text-start fw-semibold">Ерөнхий мэдээлэл</h6>
                 <div class="row py-2">
                   <div class="col-md-6">
-                    <div class="ms-md-4 text-start form-group">
+                    <div class="text-start form-group">
                       <label
                         class="form-label mt-2"
                         for="lastname"
@@ -80,7 +79,7 @@
                         required
                       />
                     </div>
-                    <div class="ms-md-4 text-start form-group">
+                    <div class="text-start form-group">
                       <label
                         class="form-label mt-2"
                         for="firstname"
@@ -95,8 +94,11 @@
                         required
                       />
                     </div>
-                    <div class="ms-md-4 text-start form-group">
-                      <label class="form-label mt-2" for="age" aria-required="true"
+                    <div class="text-start form-group">
+                      <label
+                        class="form-label mt-2"
+                        for="age"
+                        aria-required="true"
                         >Нас&nbsp;<span class="text-danger fs-6">*</span></label
                       >
                       <input
@@ -112,44 +114,67 @@
                     </div>
                   </div>
                   <div class="col-md-6">
-                    <div class="me-md-4 text-start form-group">
+                    <div class="text-start form-group">
                       <label class="form-label mt-2" for="aimag">Аймаг</label>
-                      <input
-                        class="form-control"
-                        type="text"
-                        placeholder="Сонгох"
-                        name="aimag"
-                        id="aimag"
-                      />
+                      <select name="aimag" id="aimag" class="form-select">
+                        <option value="choose">Сонгох</option>
+                        <option value="selenge">Сэлэнгэ</option>
+                        <option value="dornogovi">Дорноговь</option>
+                        <option value="tov">Төв</option>
+                        <option value="govisumber">Говьсүмбэр</option>
+                        <option value="dornod">Дорнод</option>
+                        <option value="hentii">Хэнтий</option>
+                        <option value="dundgovi">Дундговь</option>
+                        <option value="omnogovi">Өмнөговь</option>
+                        <option value="darkhan">Дархан</option>
+                        <option value="erdenet">Эрдэнэт</option>
+                      </select>
                     </div>
-                    <div class="me-md-4 text-start form-group">
+                    <div class="text-start form-group">
                       <label class="form-label mt-2" for="sumiin">Сум</label>
-                      <input
-                        class="form-control"
-                        type="text"
-                        placeholder="Сонгох"
-                        name="sumiin"
-                        id="sumiin"
-                      />
+                      <select name="sumiin" id="sumiin" class="form-select">
+                        <option value="choose">Сонгох</option>
+                        <option value="altanbulag">Алтанбулаг</option>
+                        <option value="baruunburen">Баруун бүрэн</option>
+                        <option value="bayangol">Баянгол</option>
+                        <option value="eroo">Ерөө</option>
+                        <option value="javkhlant">Жавхлант</option>
+                        <option value="zuunburen">Зүүнбүрэн</option>
+                        <option value="mandal">Мандал</option>
+                        <option value="orkhon">Орхон</option>
+                        <option value="orkhontuul">Орхонтуул</option>
+                        <option value="sant">Сант</option>
+                        <option value="saihan">Сайхан</option>
+                        <option value="sukhbaatar">Сүхбаатар</option>
+                        <option value="tushig">Түшиг</option>
+                        <option value="huder">Хүдэр</option>
+                        <option value="hushaat">Хушаат</option>
+                        <option value="tsagaannuur">Цагааннуур</option>
+                        <option value="shaamr">Шаамар</option>
+                      </select>
                     </div>
-                    <div class="me-md-4 text-start form-group">
+                    <div class="text-start form-group">
                       <label class="form-label mt-2" for="bag">Баг</label>
-                      <input
-                        class="form-control"
-                        type="text"
-                        placeholder="Сонгох"
-                        name="bag"
-                        id="bag"
-                      />
+                      <select name="bag" id="bag" class="form-select">
+                        <option value="choose">Сонгох</option>
+                        <option value="choose">1</option>
+                        <option value="choose">2</option>
+                        <option value="choose">3</option>
+                        <option value="choose">4</option>
+                        <option value="choose">5</option>
+                        <option value="choose">6</option>
+                        <option value="choose">7</option>
+                        <option value="choose">8</option>
+                      </select>
                     </div>
                   </div>
                 </div>
               </div>
 
-              <div class="row case-1 form-content">
+              <div class="row case-1 form-content border-bottom border-secondary my-3">
+                <h6 class="text-start fw-semibold">Хэсэг I</h6>
                 <div class="row py-2">
-                  <h6 class="text-start">Хэсэг I</h6>
-                  <div class="ms-md-4 text-start form-group">
+                  <div class="text-start form-group">
                     <div class="row mb-2">
                       <div class="col-md-4">
                         <label for="ua1" class="form-label"
@@ -209,53 +234,261 @@
                       <div class="col-md-8">
                         <div>
                           <input
-                          type="radio"
-                          name="ua4"
-                          id="ua4el"
-                          class="form-radio-input"
-                          placeholder="Машин"
-                        /> <label for="ua4el">Тийм</label>
+                            type="radio"
+                            name="ua4"
+                            id="ua4el"
+                            class="form-radio-input"
+                            placeholder="Машин"
+                          />
+                          <label for="ua4el">Тийм</label>
                         </div>
                         <div>
                           <input
-                          type="radio"
-                          name="ua4"
-                          id="ua4el1"
-                          class="form-radio-input"
-                          placeholder="Машин"
-                        /> <label for="ua4el1">Үгүй</label>
+                            type="radio"
+                            name="ua4"
+                            id="ua4el1"
+                            class="form-radio-input"
+                            placeholder="Машин"
+                          />
+                          <label for="ua4el1" class="form-label">Үгүй</label>
                         </div>
                       </div>
                     </div>
+                    <div class="row mb-2">
+                      <div class="col-md-4">
+                        <label for="ua5main" class="form-label"
+                          >Үйл ажиллагаа 5</label
+                        >
+                      </div>
 
-
-
-
+                      <div class="col-md-8">
+                        <div>
+                          <input
+                            type="checkbox"
+                            name="newyear"
+                            id="newyear"
+                            class="form-checkbox-input"
+                          />
+                          <label for="newyear" class="form-check-label"
+                            >Шинэ жил</label
+                          >
+                        </div>
+                        <div>
+                          <input
+                            type="checkbox"
+                            name="whitemoon"
+                            id="whitemoon"
+                            class="form-checkbox-input"
+                          />
+                          <label for="whitemoon">Цагаан сар</label>
+                        </div>
+                        <div>
+                          <input
+                            type="checkbox"
+                            name="naadam"
+                            id="naadam"
+                            class="form-checkbox-input"
+                          />
+                          <label for="naadam" class="form-check-label"
+                            >Наадам</label
+                          >
+                        </div>
+                        <div>
+                          <input
+                            type="checkbox"
+                            name="childrenday"
+                            id="childrenday"
+                            class="form-checkbox-input"
+                          />
+                          <label for="childrenday" class="form-check-label"
+                            >Хүүхдийн баяр</label
+                          >
+                        </div>
+                      </div>
+                      <div class="col">
+                        <button
+                          type="button"
+                          class="btn btn-secondary btn-sm my-2"
+                        >
+                          Хадгалах
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="row case-2 form-content border-bottom border-secondary my-3"
+              >
+                <h6 class="text-start fw-semibold">Хэсэг II</h6>
+                <div class="py-2">
+                  <div class="row my-2">
+                    <div class="col-md-6">
+                      <input
+                        type="text"
+                        name="lastname"
+                        id="lastname"
+                        class="form-control"
+                        placeholder="Овог"
+                      />
+                    </div>
+                    <div class="col-md-6 mt-2 mt-md-0">
+                      <input
+                        type="text"
+                        name="firstname"
+                        id="firstname"
+                        class="form-control"
+                        placeholder="Нэр"
+                      />
+                    </div>
+                  </div>
+                  <div class="row my-2">
+                    <div class="col-md-6">
+                      <select
+                        name="gender"
+                        id="gender"
+                        class="form-select"
+                        aria-label="Gender select"
+                      >
+                        <option value="gender" selected>Хүйс</option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="other">Other</option>
+                      </select>
+                    </div>
+                    <div class="col-md-6  mt-2 mt-md-0">
+                      <input
+                        type="number"
+                        name="age"
+                        id="age"
+                        class="form-control"
+                        placeholder="Нас"
+                      />
+                    </div>
+                  </div>
+                  <div class="row my-2">
+                    <div class="col-md-7">
+                      <input
+                        type="text"
+                        name="city"
+                        id="city"
+                        class="form-control"
+                        placeholder="Аймаг, хот нэр"
+                      />
+                    </div>
+                    <div class="col-md mt-2 mt-md-0">
+                      <input
+                        type="text"
+                        name="state"
+                        id="state"
+                        class="form-control"
+                        placeholder="Дүүрэг, сум"
+                      />
+                    </div>
+                    <div class="col-md mt-2 mt-md-0">
+                      <input
+                        type="text"
+                        name="zip"
+                        id="zip"
+                        class="form-control"
+                        placeholder="Зип код"
+                      />
+                    </div>
+                  </div>
+                  <div class="col d-flex align-items-start">
+                    <button type="button" class="btn btn-primary btn-sm my-2">
+                      Хадгалах
+                    </button>
                   </div>
                 </div>
               </div>
 
-              <div class="row case-2 form-content"></div>
+              
+              <div class="row case-3 form-content my-3">
+                <h6 class="text-start fw-semibold">Хэсэг III</h6>
 
-              <div class="row case-3 form-content"></div>
-            </div>
+                <div class="row py-2 text-start">
+                  <div class="col-md-2 fw-semibold">
+                    Ногоо
+                  </div>
+                  <div class="col-md-4">
+                    Сүүлийн 12 сард та [НЭР ТӨРӨЛ] ургац хураан авсан уу?
+                  </div>
+                  <div class="col-md-2">
+                    Өрхийн хэрэгцээнд хэрэглэсэн (D01)
+                  </div>
+                  <div class="col-md-2">
+                    Малын тэжээлд зориулсан (D02)
+                  </div>
+                  <div class="col-md-2">
+                    Худалдсан (D03)
+                  </div>
+                </div>
+                <div class="row py-2 text-start">
+                  <div class="col-md-2 fw-semibold">
+                    Төмс
+                  </div>
+                  <div class="col-md-4">
+                    <input type="radio" name="potato" id="yespotato"> <label for="yespotato"> Тийм </label>
+                    <input type="radio" name="potato" id="nopotato"> <label for="nopotato"> Үгүй </label>
+                  </div>
+                  <div class="col-md-2">
+                    <input type="text" name="orh"  class="form-control mt-2 mt-md-0" placeholder="D01">
+                  </div>
+                  <div class="col-md-2">
+                    <input type="text" name="animal"  class="form-control mt-2 mt-md-0" placeholder="D02">
+                  </div>
+                  <div class="col-md-2">
+                    <input type="text" name="sell"  class="form-control mt-2 mt-md-0" placeholder="D03">
+                  </div>
+                </div>
+                <div class="row py-2 text-start">
+                  <div class="col-md-2 fw-semibold">
+                    Байцаа
+                  </div>
+                  <div class="col-md-4">
+                    <input type="radio" name="cabage" id="yescab"> <label for="yescab"> Тийм </label>
+                    <input type="radio" name="cabage" id="nocab"> <label for="nocab"> Үгүй </label>
+                  </div>
+                  <div class="col-md-2">
+                    <input type="text" name="orh"  class="form-control mt-2 mt-md-0" placeholder="D01">
+                  </div>
+                  <div class="col-md-2">
+                    <input type="text" name="animal"  class="form-control mt-2 mt-md-0" placeholder="D02">
+                  </div>
+                  <div class="col-md-2">
+                    <input type="text" name="sell"  class="form-control mt-2 mt-md-0" placeholder="D03">
+                  </div>
+                </div>
+                <div class="row py-2 text-start">
+                  <div class="col-md-2 fw-semibold">
+                    Лууван
+                  </div>
+                  <div class="col-md-4">
+                    <input type="radio" name="carrot" id="yescarrot"> <label for="yescarrot"> Тийм </label>
+                    <input type="radio" name="carrot" id="nocarrot"> <label for="nocarrot"> Үгүй </label>
+                  </div>
+                  <div class="col-md-2">
+                    <input type="text" name="orh"  class="form-control mt-2 mt-md-0" placeholder="D01">
+                  </div>
+                  <div class="col-md-2">
+                    <input type="text" name="animal"  class="form-control mt-2 mt-md-0" placeholder="D02">
+                  </div>
+                  <div class="col-md-2">
+                    <input type="text" name="sell"  class="form-control mt-2 mt-md-0" placeholder="D03">
+                  </div>
+                </div>
+                <div class="col d-flex align-items-start">
+                  <button type="button" class="btn btn-success btn-sm my-2">
+                    Хадгалах
+                  </button>
+                </div>
+              </div>
           </div>
         </form>
       </div>
     </section>
 
-    <footer class="fixed-bottom p-3 fs-6 bg-secondary text-white text-center">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 text-start">
-            <address>
-              Address: Pinecone Academy, UB Mongolia. All rights reserved
-              copyright &copy; 2022
-            </address>
-          </div>
-        </div>
-      </div>
-    </footer>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
