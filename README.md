@@ -3,7 +3,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 * **Assignment links**
 
 1. **Bootstrap дээр хийсэн Байгууллагын судалгаа**
-- [<img src="./images/thumb_bootstrap_org_sudalgaa_20221123192735.jpg" heigth="100"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/org-sudalgaa/index.html)
+- [<img src="./images/thumb_bootstrap_org_sudalgaa_20221123192735.jpg" height="100"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/org-sudalgaa/index.html)
 - Github file location: ["../bootstrap/org-sudalgaa/"](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/org-sudalgaa/)
 - open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/org-sudalgaa/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/org-sudalgaa/index.html)
 
@@ -45,17 +45,17 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 
 11. **Social media Санал асуулгын форм хэсгийг харах бол:**
 
-- <img src="./images/thumb_register_socialpage258716.avif" width="150" heigth="122"/>
+- <img src="./images/thumb_register_socialpage258716.avif" width="150" height="122"/>
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/register-page)
 - open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/register-page/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/register-page/index.html)
 
 12. **Photos Hover Transition transform харах бол:**
-- <img src="./images/thumb_boxtransformImagesAnimals.jpg" width="100" heigth="100"/>
+- <img src="./images/thumb_boxtransformImagesAnimals.jpg" width="100" height="100"/>
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/box-transform/)
 - open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box-transform/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box-transform/index.html)
 
 13. **Toggle Button transition transform ашиглан хийв:**
-- [<img src="./images/thumb_toggleButton21224031.jpg" heigth="100"/>](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/toggleButton/)
+- [<img src="./images/thumb_toggleButton21224031.jpg" height="100"/>](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/toggleButton/)
 - File location link-image
 - [Github file location](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/toggleButton/)
 - open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box-transform/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/toggleButton/index.html)
@@ -69,11 +69,12 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/hiform/index.html
 
 16. **HTML CSS ашиглан hover Hello World Button хийх даалгавар**
-- [<img src="./images/thumb_hellobuttonBadge.jpg" heigth="49"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/helloworldbutton/index.html)
+- [<img src="./images/thumb_hellobuttonBadge.jpg" height="49"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/helloworldbutton/index.html)
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/helloworldbutton/
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/helloworldbutton/index.html
 
 17. **HTML CSS ашиглан далд ордог Sidebar Menu хийх даалгавар**
-- [<img src="./images/thumb_sidebarMenuhovereffect.jpg" heigth="50"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/sidebar-hovermenu/index.html)
+- [<img src="./images/thumb_sidebarMenuhovereffect.jpg" height="50"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/sidebar-hovermenu/index.html)
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/sidebar-hovermenu/
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/sidebar-hovermenu/index.html
+-
