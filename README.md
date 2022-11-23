@@ -69,6 +69,6 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/hiform/index.html
 
 16. **HTML CSS ашиглан hover Hello World Button хийх даалгавар**
-- ![<img src="./images/thumb_hellobuttonBadge.jpg" heigth="49"/>]()
+- [<img src="./images/thumb_hellobuttonBadge.jpg" heigth="49"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/helloworldbutton/index.html)
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/helloworldbutton/
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/helloworldbutton/index.html
