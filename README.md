@@ -72,3 +72,8 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - [<img src="./images/thumb_hellobuttonBadge.jpg" heigth="49"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/helloworldbutton/index.html)
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/helloworldbutton/
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/helloworldbutton/index.html
+
+17. **HTML CSS ашиглан далд ордог Sidebar Menu хийх даалгавар**
+- [<img src="./images/thumb_sidebarMenuhovereffect.jpа" heigth="100"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/sidebar-hovermenu/index.html)
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/sidebar-hovermenu/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/sidebar-hovermenu/index.html
