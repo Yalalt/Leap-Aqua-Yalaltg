@@ -4,7 +4,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 
 1. **Bootstrap дээр хийсэн Байгууллагын судалгаа**
 - [<img src="./images/thumb_bootstrap_org_sudalgaa_20221123192735.jpg" heigth="100"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/org-sudalgaa/index.html)
-- [Github file location](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/org-sudalgaa/)
+- [Github file location: ./bootstrap/org-sudalgaa/](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/org-sudalgaa/)
 - open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/org-sudalgaa/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/org-sudalgaa/index.html)
 
 2. **Bootstrap дээр хийсэн responsive web хийх даалгаврын**
