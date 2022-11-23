@@ -9,7 +9,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 
 2. **Bootstrap дээр хийсэн responsive web хийх даалгаврын**
 - File location on Github: [Github file location](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/bootstrap/responsive-web/index.html)<sup>click me</sup>
-- This file uses: [Github Pages](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/responsive-web/index.html)<sup>click me</sup> 
+- open Github Pages: [Github Pages](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/responsive-web/index.html)<sup>click me</sup> 
 
 3. **We Promote for Career - Bootstrap дээр хийх даалгаврын:**
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/promote-career)
@@ -17,7 +17,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 
 4. **Color rows using Bootstrap Даалгавар:**
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/color-rows)
-- Deploy web link: [open Github Pages](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/color-rows/index.html)
+- open Github Pages: [open Github Pages](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/color-rows/index.html)
 
 5. **Admin хэсэгтэй Ангилал нэмэх хасах хэсгийг хийв**
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/bootstrap/admin/index.html)
@@ -62,4 +62,4 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 
 14. **HTML CSS ашиглан санал хүсэлт авах Form хийх даалгавар**
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/form/
-- Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/form/index.html
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/form/index.html
