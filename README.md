@@ -42,6 +42,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 10. **Banner assignment хэсгийг харах бол:**
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/bootstrap/responsive-web/banner/index.html)
 - open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/responsive-web/banner/index.html
+
 11. **Social media Санал асуулгын форм хэсгийг харах бол:**
 
 - <img src="./images/thumb_register_socialpage258716.avif" width="150" heigth="122"/>

@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  max-width: 80%;
+  margin: 50px auto;
+}
+
+.box {
+  margin: 0 auto;
+  max-width: 500px;
+  width: 100%;
+  min-width: 400px;
+  border: 1px solid #888;
+  padding: 2rem 2rem 2rem 1.5rem;
+  border-radius: 10px;
+}
+
+.row {
+  display: flex;
+  margin: 10px 0;
+}
+
+.row .col-1 {
+  flex-basis: 25%;
+  text-align: right;
+  margin-right: 8px;
+}
+
+.row .col-2 {
+  flex-basis: 75%;
+}
+
+.row .col-2 input,
+.row .col-2 textarea {
+  width: 100%;
+  line-height: 1.8;
+}
+
+.row .col-2 textarea {
+  resize: none;
+}
+
+.btn {
+  padding: 10px 18px;
+  border-radius: 5px;
+  border: 1px solid #999;
+}
+.btn:hover {
+  background-color: #888;
+  color: #fff;
+  transition: all 0.5s;
+}
