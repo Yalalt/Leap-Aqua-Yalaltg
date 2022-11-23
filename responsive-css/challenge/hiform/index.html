@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Hi Form CSS HTML</title>
+  </head>
+  <body>
+    <div class="container">
+      <form>
+          <div class="box">
+            <fieldset>
+                <legend>Hi form</legend>
+    
+                <div class="row">
+                  <div class="col-1">
+                    <label for="name">Нэр</label>
+                  </div>
+                  <div class="col-2">
+                    <input type="text" name="name" id="name" required />
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1">
+                    <label for="name">Овог</label>
+                  </div>
+                  <div class="col-2">
+                    <input type="text" name="name" id="name" required />
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1">
+                    <label for="email">И-Мэйл</label>
+                  </div>
+                  <div class="col-2">
+                    <input type="email" name="email" id="email" required />
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1">
+                    <label for="phonenumber">Утас</label>
+                  </div>
+                  <div class="col-2">
+                    <input type="number" maxlength="8" placeholder="00000000" name="phonenumber" id="phonenumber" required />
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1">
+                    <label for="age">Нас</label>
+                  </div>
+                  <div class="col-2">
+                    <input type="number" min="1" max="120" name="age" id="age" required />
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1">
+                    <label for="datebirth">Төрсөн өдөр</label>
+                  </div>
+                  <div class="col-2">
+                    <input type="date" name="datebirth" id="datebirth" required />
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1">
+                    <label for="gender">Хүйс</label>
+                  </div>
+                  <div class="col-2">
+                    <select name="gender" id="gender">
+                      <option value="choose">Сонгох...</option>
+                      <option value="male">Эрэгтэй</option>
+                      <option value="female">Эмэгтэй</option>
+                      <option value="other">Бусад</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1">
+                    <label for="definition" class="def">Тодорхойлолт</label>
+                  </div>
+                  <div class="col-2">
+                    <textarea
+                      name="definition"
+                      id="definition"
+                      cols="15"
+                      rows="10"
+                      minlength="8"
+                      maxlength="200"
+                    ></textarea>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1">
+                    <label for="student">Сурагч эсэх</label>
+                  </div>
+                  <div class="col-2">
+                    <input type="checkbox" name="student" id="student" required />
+                  </div>
+                </div>
+              </div>
+            </fieldset>
+
+
+      </form>
+    </div>
+  </body>
+</html>

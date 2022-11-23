@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+fieldset {
+  padding: 10px 70px;
+}
+
+.box {
+  margin: 0 auto;
+  width: 700px;
+}
+
+.row {
+  display: flex;
+  margin: 10px 0;
+}
+
+.row .col-1 {
+  flex-basis: 25%;
+  margin-right: 8px;
+  text-align: right;
+}
+
+.row .col-2 {
+  flex-basis: 75%;
+}
+
+.row .col-2 input {
+  width: 50%;
+  line-height: 1.8;
+  border-radius: 5px;
+  border: 1px solid #888;
+}
+
+.row .col-2 textarea {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #888;
+}
+
+.row .col-2 input[type="date"],
+.row .col-2 input[type="checkbox"] {
+  width: initial;
+}
+
+.row .col-2 select {
+  line-height: 2;
+  border-radius: 5px;
+  border: 1px solid #888;
+}
+
+.btn {
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid #888;
+}
