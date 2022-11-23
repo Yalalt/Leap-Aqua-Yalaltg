@@ -63,3 +63,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 14. **HTML CSS ашиглан санал хүсэлт авах Form хийх даалгавар**
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/form/
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/form/index.html
+
+15. **HTML CSS ашиглан бүртгүүлэх Form хийх даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/hiform/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/hiform/index.html
