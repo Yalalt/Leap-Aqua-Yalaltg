@@ -83,6 +83,7 @@
   border-left: none;
   border-right: none;
   border-bottom: 1px solid var(--border-silver);
+  color: #fff;
 }
 
 .left-side input::placeholder {
@@ -93,8 +94,8 @@
   color: #fff;
 }
 
-.right-side #place select {
-    color: #fff;
+.right-side select option {
+    color: #333;
 }
 
 .right-side a,
