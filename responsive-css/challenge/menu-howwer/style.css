@@ -1,0 +1,46 @@
+body {
+    background-color: #f9f9f9;
+    height: 100vh;
+    width: 50vw;
+    margin-inline: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu {
+    padding-top: 50px;
+    margin: 0 auto;
+    width: 350px;
+    overflow: hidden;
+}
+
+ul {
+    resize: horizontal;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+ul li {
+    position: relative;
+    text-align: center;
+    list-style: none;
+    top: 0;
+    left: 0;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    height: 50px;
+    width: 350px;
+    border-top: 2px solid white;
+    color: rgb(77, 0, 0);
+    transition-property: height, font-size, color, background-color;
+    transition-duration: 500ms, 500ms, 500ms, 500ms;
+    transition-delay: 0s, 400ms, 500ms, 600ms;
+    transition-timing-function: ease, ease-in, ease-in;
+}
+
+li:hover {
+    height: 150px;
+    font-size: 36px;
+    color: rgb(0, 68, 255);
+    background-color: chocolate;
+}

@@ -90,3 +90,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - [<img src="./images/thumb_threeColorsCircles13622.jpg"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/galaxy/index.html)
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/galaxy/
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/galaxy/index.html
+
+21. **HTML CSS u li ашиглан Menu хийх hover дээр effect оруулах даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/menu-howwer/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/menu-howwer/index.html
