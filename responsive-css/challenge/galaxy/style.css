@@ -1,0 +1,96 @@
+.border {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  border: 1px solid rgb(201, 53, 53);
+  top: 50px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  overflow: hidden;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.4);
+}
+
+.circle-1 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  background: rgb(238, 228, 228);
+  border-radius: 50%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  transition: all 2s ease-out 1s;
+}
+.circle-2 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background: rgb(223, 109, 109);
+  border-radius: 50%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  transition: transform 1s ease-out 2s;
+}
+.circle-3 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background: rgb(40, 172, 208);
+  border-radius: 50%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  transition-property: top, left, background-color;
+  transition-duration: 1s, 1s, 1s;
+  transition-delay: 0s, 1s, 1s;
+}
+.circle-4 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: rgb(224, 47, 91);
+  border-radius: 50%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 10px auto;
+}
+
+.border:hover .circle-1 {
+  border-radius: 5%;
+  transform: translateY(-260%) translateX(-260%);
+  transition: all 2s ease-in 1s;
+}
+.border:hover .circle-2 {
+  transform: translateY(-365%) translateX(365%);
+  transition: transform 1s ease-in;
+}
+
+.border:hover .circle-3 {
+  top: 420px;
+  left: 420px;
+  background-color:rgb(223, 109, 109);
+}
+
+.border:hover .circle-4 {
+  animation: circle-4 4s forwards infinite;
+}
+
+@keyframes circle-4 {
+  0% {
+    transform: rotate(0deg) translate(-160px) rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg) translate(-160px) rotate(360deg);
+  }
+}

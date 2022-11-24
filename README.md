@@ -85,3 +85,8 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 19. **HTML CSS ашиглан Search Bar Input хийх даалгавар**
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/searchinput/
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/searchinput/index.html
+
+20. **HTML CSS ашиглан 3 дугуйг transition хийх даалгавар**
+- [<img src="./images/thumb_threeColorsCircles13622.jpg"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/galaxy/index.html)
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/galaxy/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/galaxy/index.html
