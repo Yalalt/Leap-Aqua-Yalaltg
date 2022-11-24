@@ -44,7 +44,7 @@ body {
     border-radius: 50%;
     width: 50px;
     height: 50px;
-    
+    transition: all 500ms ease-in-out;
 }
 
 .search-bar-input {
@@ -58,8 +58,7 @@ body {
     bottom: 0;
     right: 0;
     width: 60px;
-    margin-right: auto;
-    transition: background-color 150ms ease-in-out;
+    margin-left: auto;
     opacity: 0;
     cursor: pointer;
 }
@@ -74,6 +73,13 @@ body {
 
 .search-bar:focus-within {
     width: 100%;
+    
+}
+
+.search-bar:focus-within .search-bar-submit-btn {
+    background-color: burlywood;
+    color: #fff;
+    transition: all 500ms ease-in-out;
 }
 
 .search-bar:focus-within .search-bar-input {
