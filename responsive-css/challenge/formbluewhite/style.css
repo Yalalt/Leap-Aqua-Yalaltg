@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
+
+:root {
+  --bg-primary: rgba(137, 176, 223);
+  --bg-secondary: rgb(58, 58, 193);
+  --border-silver: rgb(224, 224, 224);
+  --txt-header: rgb(38, 84, 157);
+  --txt-gray: rgb(128, 127, 131);
+  --txt-white: #fff;
+  --form-width: 900px;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: var(--bg-primary);
+  max-width: 1120px;
+  width: 100%;
+  margin-inline: auto;
+  height: 100vh;
+  padding: 5rem;
+}
+
+.form-body {
+  width: 100%;
+  min-width: var(--form-width);
+  height: auto;
+  display: flex;
+  padding: 20px;
+}
+
+.left-side {
+  background-color: var(--txt-white);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.left-side h3 {
+  margin: 1rem 0;
+  color: var(--txt-header);
+  font-weight: 600;
+}
+
+.right-side h3 {
+  margin: 1rem 0;
+  color: #fff;
+}
+
+.right-side {
+  background-color: rgb(49, 43, 232);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.left-side input,
+.left-side select {
+  line-height: 1.8;
+  background-color: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid var(--border-silver);
+}
+
+.right-side input,
+.right-side select {
+  line-height: 1.8;
+  background-color: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid var(--border-silver);
+}
+
+.left-side input::placeholder {
+  color: var(--txt-gray);
+}
+
+.right-side input::placeholder {
+  color: #fff;
+}
+
+.right-side #place select {
+    color: #fff;
+}
+
+.right-side a,
+.right-side label {
+  color: #fff;
+  font-size: 12px;
+}
+
+.form-group {
+  width: 100%;
+}
+
+.right-side button.btn {
+  padding: 8px 16px;
+  border-radius: 16px;
+  border: none;
+}
