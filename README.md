@@ -81,3 +81,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 18. **HTML CSS ашиглан Floaty Four Box transform хийх даалгавар**
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/box4expand/
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box4expand/index.html
+
+19. **HTML CSS ашиглан Search Bar Input хийх даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/searchinput/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/searchinput/index.html
