@@ -102,11 +102,11 @@ footer a {
 
 .row{
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .row>*{
-    width: 33.33%;
+    width: 100%;
 }
 
 .search{
@@ -118,20 +118,17 @@ footer a {
     width: 170px;
 }
 
-@media screen and (max-width: 1230px) {
+@media screen and (min-width: 1230px) {
     .row>*{
         width: 49.5%;
+        padding-bottom: 20px;
+        
     }
 }
 
-@media screen and (max-width: 610px) {
-    .row {
-        flex-direction: column;
-    }
-    
+@media screen and (min-width: 370px) {
     .row > * {
         width: 100%;
-        border: red solid 10px;
     }
 }
 
