@@ -98,3 +98,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 22. **Цэнхэр цагаан хэсэгтэй холбоо барих форум ба бүртгэлийн хэсгийг хийх даалгавар**
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/formbluewhite/
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/formbluewhite/index.html
+
+23. **Media Query ашиглан background color, background media size text өөрчилж хийх даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/mediaqueryback/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/mediaqueryback/index.html

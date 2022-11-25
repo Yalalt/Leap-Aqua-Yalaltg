@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1920px;
+    width: 100%;
+    height: 100vh;
+    margin-inline: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    width: 200px;
+    height: 300px;
+}
+
+img {
+    margin: 0 auto;
+}
+
+.title-img {
+    position: relative;
+    text-align: center;
+    visibility: hidden;
+    background-color: lightblue;
+    border: 1px solid lightblue;
+    width: 200px;
+    height: 60px;
+    margin-inline: auto;
+    margin-bottom: 10px;
+}
+
+.title-img .text-1,
+.title-img .text-2,
+.title-img .text-3 {
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+    padding: 15px 0;
+    visibility: hidden;
+}
+
+@media screen and (max-width: 2473px) {
+    body {
+        background-color: rgb(122, 34, 205);
+    }
+
+    .title-img {
+        visibility: visible;
+        border-radius: 30px;
+    }
+    .title-img .text-1 {
+        visibility: visible;
+    }
+    .title-img .text-2, .title-img .text-3 {
+        visibility: hidden;
+    }
+}
+@media screen and (max-width: 1024px) {
+    body {
+        background-color: rgb(235, 19, 145);
+    }
+
+    .title-img {
+        visibility: visible;
+        border-radius: 0px;
+    }
+    .title-img .text-2 {
+        visibility: visible;
+    }
+    .title-img .text-1, .title-img .text-3 {
+        visibility: hidden;
+    }
+}
+@media screen and (max-width: 768px) {
+    body {
+        background-color: rgb(32, 153, 13);
+    }
+
+    .title-img {
+        visibility: visible;
+        border-radius: 0px;
+    }
+    .title-img .text-3 {
+        visibility: visible;
+    }
+    .title-img .text-1, .title-img .text-2 {
+        visibility: hidden;
+    }
+}
+@media screen and (max-width: 427px) {
+    body {
+        background-color: #fff;
+    }
+    img {
+        visibility: hidden;
+    }
+    .title-img {
+        visibility: hidden;
+        border-radius: 0px;
+    }
+
+    .title-img .text-1,
+    .title-img .text-2,
+    .title-img .text-3 {
+        visibility: hidden;
+    }
+}
