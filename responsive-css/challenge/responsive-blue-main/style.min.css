@@ -11,7 +11,7 @@ ul,li{
 
 .container{
     max-width: 1200px;
-     margin: 0 auto;
+    margin: 0 auto;
     padding: 0 10px;
 }
 body {
@@ -42,6 +42,7 @@ header ul li a {
     color: #fff;
     text-decoration: none;
     display: block;
+    
 }
 
 header ul li.bars{
@@ -119,19 +120,78 @@ footer a {
 }
 
 @media screen and (max-width: 1230px) {
+    section article h2 {
+        font-size: 24px;
+    }
+    
+    section article p {
+        font-size: 16px;
+    }
+    
+    header ul li a:not(header ul li.bars a) {
+        display: block;
+    }
+
+    header ul li.bars {
+        display: none;
+    }
+    
+    section article {
+        padding: 10px;
+        margin: 0 0 20px;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #ccc;
+    }
+    
     .row>*{
         width: 49.5%;
     }
 }
 
 @media screen and (max-width: 610px) {
+    section article h2 {
+        font-size: 20px;
+    }
+    
+    section article p {
+        font-size: 14px;
+    }
+
+    header ul li {
+        margin: 0;
+        padding: 0;
+    }
+    
+    header ul li a:not(header ul li.bars a) {
+        display: none;
+    }
+
+    header ul li.bars {
+        display: block;
+    }
+    
+    section article {
+        margin: 0 0 8px;
+        padding-bottom: 20px;
+    }
+
+    section article a {
+        font-size: 14px;
+        font-weight: 500;
+        padding: 8px 16px;
+    }
+    
     .row {
         flex-direction: column;
     }
     
     .row > * {
         width: 100%;
-        border: red solid 10px;
+    }
+
+    footer {
+        min-height: 80px;
+        padding: 20px;
     }
 }
 
