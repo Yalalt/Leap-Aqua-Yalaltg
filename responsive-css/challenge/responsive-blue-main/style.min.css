@@ -186,7 +186,7 @@ footer a {
     }
     
     .row > * {
-        width: 100%;
+        width: 100vw;
     }
 
     footer {
