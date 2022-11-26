@@ -122,3 +122,5 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/register-page)
 - open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/register-page/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/register-page/index.html)
 
+0. Media Query ашиглан хийх зургийн галлери хийх даалгавар.
+CodeHS дээрх байршил: https://challenge-1-html-respo-5476976.codehs.me/index.html
