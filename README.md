@@ -43,22 +43,13 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/bootstrap/responsive-web/banner/index.html)
 - open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/responsive-web/banner/index.html
 
--------------------
+
+----
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+15. **Media Query ашиглан Web-ийн Design-д media query бичиж, design өөрчлөх EXAMPLE - 2 даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/mediaquery-example/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/mediaquery-example/index.html
 
 14. **Media Query ашиглан Web-ийн Design, media query бичиж, design өөрчлөх даалгавар**
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/responsive-blue-main/
