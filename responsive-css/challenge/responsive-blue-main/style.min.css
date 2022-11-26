@@ -89,9 +89,9 @@ section article a:hover {
 footer {
     position: fixed;
     width: 100%;
-    min-height: 100px;
+    min-height: 80px;
     bottom: 0;
-    padding: 50px;
+    padding: 50px 30px;
     color: #fff;
     background: #171724
 }
@@ -190,7 +190,7 @@ footer a {
     }
 
     footer {
-        min-height: 80px;
+        min-height: 60px;
         padding: 20px;
     }
 }

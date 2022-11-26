@@ -43,62 +43,82 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/bootstrap/responsive-web/banner/index.html)
 - open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/responsive-web/banner/index.html
 
-11. **Social media Санал асуулгын форм хэсгийг харах бол:**
 
-- <img src="./images/thumb_register_socialpage258716.avif" width="150" height="122"/>
-- File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/register-page)
-- open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/register-page/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/register-page/index.html)
-
-12. **Photos Hover Transition transform харах бол:**
+99999. **Photos Hover Transition transform харах бол:**
 - <img src="./images/thumb_boxtransformImagesAnimals.jpg" width="100" height="100"/>
 - File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/box-transform/)
 - open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box-transform/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box-transform/index.html)
 
-13. **Toggle Button transition transform ашиглан хийв:**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. **Media Query ашиглан Web-ийн Design, media query бичиж, design өөрчлөх даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/responsive-blue-main/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/responsive-blue-main/index.html
+
+12. **Media Query ашиглан background color, background media size text өөрчилж хийх даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/mediaqueryback/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/mediaqueryback/index.html
+
+11. **Цэнхэр цагаан хэсэгтэй холбоо барих форум ба бүртгэлийн хэсгийг хийх даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/formbluewhite/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/formbluewhite/index.html
+
+10. **HTML CSS u li ашиглан Menu хийх hover дээр effect оруулах даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/menu-howwer/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/menu-howwer/index.html
+
+9. **HTML CSS ашиглан 3 дугуйг transition хийх даалгавар**
+- [<img src="./images/thumb_threeColorsCircles13622.jpg"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/galaxy/index.html)
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/galaxy/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/galaxy/index.html
+
+8. **HTML CSS ашиглан Search Bar Input хийх даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/searchinput/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/searchinput/index.html
+
+7. **HTML CSS ашиглан Floaty Four Box transform хийх даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/box4expand/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box4expand/index.html
+
+6. **HTML CSS ашиглан далд ордог Sidebar Menu хийх даалгавар**
+- [<img src="./images/thumb_sidebarMenuhovereffect.jpg" height="50"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/sidebar-hovermenu/index.html)
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/sidebar-hovermenu/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/sidebar-hovermenu/index.html
+
+5. **HTML CSS ашиглан hover Hello World Button хийх даалгавар**
+- [<img src="./images/thumb_hellobuttonBadge.jpg" height="49"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/helloworldbutton/index.html)
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/helloworldbutton/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/helloworldbutton/index.html
+
+4. **HTML CSS ашиглан санал хүсэлт авах Form хийх даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/form/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/form/index.html
+
+3. **HTML CSS ашиглан бүртгүүлэх Form хийх даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/hiform/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/hiform/index.html
+
+2. **Toggle Button transition transform ашиглан хийв:**
 - [<img src="./images/thumb_toggleButton21224031.jpg" height="100"/>](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/toggleButton/)
 - File location link-image
 - [Github file location](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/toggleButton/)
 - open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box-transform/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/toggleButton/index.html)
 
-14. **HTML CSS ашиглан санал хүсэлт авах Form хийх даалгавар**
-- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/form/
-- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/form/index.html
+1. **Social media Санал асуулгын форм хэсгийг харах бол:**
+- <img src="./images/thumb_register_socialpage258716.avif" width="150" height="122"/>
+- File location link: [open Github source code](https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/register-page)
+- open Github Pages: [https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/register-page/index.html](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/register-page/index.html)
 
-15. **HTML CSS ашиглан бүртгүүлэх Form хийх даалгавар**
-- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/hiform/
-- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/hiform/index.html
-
-16. **HTML CSS ашиглан hover Hello World Button хийх даалгавар**
-- [<img src="./images/thumb_hellobuttonBadge.jpg" height="49"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/helloworldbutton/index.html)
-- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/helloworldbutton/
-- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/helloworldbutton/index.html
-
-17. **HTML CSS ашиглан далд ордог Sidebar Menu хийх даалгавар**
-- [<img src="./images/thumb_sidebarMenuhovereffect.jpg" height="50"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/sidebar-hovermenu/index.html)
-- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/sidebar-hovermenu/
-- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/sidebar-hovermenu/index.html
-
-18. **HTML CSS ашиглан Floaty Four Box transform хийх даалгавар**
-- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/box4expand/
-- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/box4expand/index.html
-
-19. **HTML CSS ашиглан Search Bar Input хийх даалгавар**
-- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/searchinput/
-- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/searchinput/index.html
-
-20. **HTML CSS ашиглан 3 дугуйг transition хийх даалгавар**
-- [<img src="./images/thumb_threeColorsCircles13622.jpg"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/galaxy/index.html)
-- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/galaxy/
-- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/galaxy/index.html
-
-21. **HTML CSS u li ашиглан Menu хийх hover дээр effect оруулах даалгавар**
-- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/menu-howwer/
-- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/menu-howwer/index.html
-
-22. **Цэнхэр цагаан хэсэгтэй холбоо барих форум ба бүртгэлийн хэсгийг хийх даалгавар**
-- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/formbluewhite/
-- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/formbluewhite/index.html
-
-23. **Media Query ашиглан background color, background media size text өөрчилж хийх даалгавар**
-- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/challenge/mediaqueryback/
-- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/challenge/mediaqueryback/index.html
