@@ -46,8 +46,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 
 ----
 
-**Air Ballon - Агаарын бөмбөлөг зурагтай даалгавар**
-16. **Media Query ашиглан Web-ийн Design-д media query бичиж, design өөрчлөх EXAMPLE - 3 даалгавар**
+16. **Air Ballon - Агаарын бөмбөлөг зурагтай даалгавар**, **Media Query ашиглан Web-ийн Design-д media query бичиж, design өөрчлөх EXAMPLE - 3 даалгавар**
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/mediaquery/zuragtai/
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/mediaquery/zuragtai/index.html
 
