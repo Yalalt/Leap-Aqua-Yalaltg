@@ -46,6 +46,10 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 
 ----
 
+17. **Slack web design**, **Media Query ашиглан Slack-ийн Design-д media query бичиж, design өөрчлөх EXAMPLE - 4 даалгавар**
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/mediaquery/slack/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/mediaquery/slack/index.html
+
 16. **Air Ballon - Агаарын бөмбөлөг зурагтай даалгавар**, **Media Query ашиглан Web-ийн Design-д media query бичиж, design өөрчлөх EXAMPLE - 3 даалгавар**
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/mediaquery/zuragtai/
 - open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/mediaquery/zuragtai/index.html
