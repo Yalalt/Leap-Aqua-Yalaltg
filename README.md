@@ -51,7 +51,14 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - open Github Pages: https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/responsive-web/banner/index.html
 
 
-----
+----------------
+
+
+
+18. **Responsive Card хийх даалгавар**
+- <img src="./images/thumb_responsiveCard221555.jpg" height="44px">
+- Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/card/
+- open Github on Pages link: https://yalalt.github.io/Leap-Aqua-Yalaltg/responsive-css/card/index.html
 
 17. **Slack web design**, **Media Query ашиглан Slack-ийн Design-д media query бичиж, design өөрчлөх EXAMPLE - 4 даалгавар**
 - Github on file location: https://github.com/Yalalt/Leap-Aqua-Yalaltg/blob/main/responsive-css/mediaquery/slack/
