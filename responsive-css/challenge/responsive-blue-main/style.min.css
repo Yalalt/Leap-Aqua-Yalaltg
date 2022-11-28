@@ -11,7 +11,7 @@ ul,li{
 
 .container{
     max-width: 1200px;
-     margin: 0 auto;
+    margin: 0 auto;
     padding: 0 10px;
 }
 body {
@@ -42,6 +42,7 @@ header ul li a {
     color: #fff;
     text-decoration: none;
     display: block;
+    
 }
 
 header ul li.bars{
@@ -88,9 +89,9 @@ section article a:hover {
 footer {
     position: fixed;
     width: 100%;
-    min-height: 100px;
+    min-height: 80px;
     bottom: 0;
-    padding: 50px;
+    padding: 50px 30px;
     color: #fff;
     background: #171724
 }
@@ -118,7 +119,7 @@ footer a {
     width: 170px;
 }
 
-@media screen and (min-width: 1230px) {
+@media screen and (max-width: 1230px) {
     .row>*{
         width: 49.5%;
         padding-bottom: 20px;
@@ -126,9 +127,14 @@ footer a {
     }
 }
 
-@media screen and (min-width: 370px) {
+@media screen and (max-width: 610px) {
+    .row {
+        flex-direction: column;
+    }
+    
     .row > * {
         width: 100%;
+        border: red solid 10px;
     }
 }
 
