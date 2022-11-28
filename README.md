@@ -2,6 +2,13 @@
 Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repository with assignment lesson
 * **Assignment links**
 
+1. **Javascript даалгаврууд**
+- Basic Javascript
+- Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/
+- Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/inputs/
+
+--------------------------
+
 1. **Bootstrap дээр хийсэн Байгууллагын судалгаа**
 - [<img src="./images/thumb_bootstrap_org_sudalgaa_20221123192735.jpg" height="100"/>](https://yalalt.github.io/Leap-Aqua-Yalaltg/bootstrap/org-sudalgaa/index.html)
 - Github file location: ["../bootstrap/org-sudalgaa/"](https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/bootstrap/org-sudalgaa/)

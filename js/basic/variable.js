@@ -1,4 +1,4 @@
-let too = 123;
+let too = 12356;
 let greetings = "Hello World";
 let logicUtga = true;
 let todorhoigvi;
