@@ -12,7 +12,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/team/main.js
 3. **Max min number oloh bodlogo**
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/maxNumber/main.js
-4. **сурагчдын дүн үнэлгээг харуулах**
+4. **Cурагчдын дүн үнэлгээг харуулах**
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/dununelgee/index.html
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/dununelgee/main.js
 --------------------------
