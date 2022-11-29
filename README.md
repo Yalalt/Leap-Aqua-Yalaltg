@@ -7,6 +7,13 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/inputs/
 - Дугуйн тойрог, талбай: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/inputs/index.html
+
+2. **Javascript даалгаврууд**
+- Team A, B bodlogo
+- Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/team/main.js
+- 
+
+
 --------------------------
 
 1. **Bootstrap дээр хийсэн Байгууллагын судалгаа**

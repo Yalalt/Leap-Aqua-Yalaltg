@@ -13,7 +13,7 @@ let averageTeamB = parseInt(((teamB1 + teamB2 + teamB3)/3).toPrecision(4));
 
 console.log("1. ---------Team---------");
 console.log("A Team dundaj onoo: " + averageTeamA);
-console.log("B team dundaj onoo: " + averageTeamB);
+console.log("B Team dundaj onoo: " + averageTeamB);
 
 console.log("2. ---------Team---------");
 if(averageTeamA > 100 || averageTeamB > 100) {
@@ -27,3 +27,4 @@ if(averageTeamA > 100 || averageTeamB > 100) {
 } else {
     console.log("A, B багуудын оноо 100 оноонд хүрээгүй тул түрүүлсэн баг одоогоор байхгүй байна.");
 }
+
