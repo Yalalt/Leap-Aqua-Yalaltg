@@ -1,15 +1,14 @@
 # Leap 2022 Aqua Yalalt
 Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repository with assignment lesson
-* **Assignment links**
+**Assignment links**
+**Javascript даалгаврууд**
 
-1. **Javascript даалгаврууд**
-- Basic Javascript
+1. Basic Javascript
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/inputs/
 - Дугуйн тойрог, талбай: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/inputs/index.html
 
-2. **Javascript даалгаврууд**
-- Team A, B bodlogo
+2. **Team A B onoo check**
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/team/main.js
 - 
 
