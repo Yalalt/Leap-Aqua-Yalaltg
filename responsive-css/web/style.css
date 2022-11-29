@@ -5,7 +5,7 @@
 }
 
 .container {
-    max-width: 1140px;
+    max-width: 1190px;
     margin: 0 auto;
 }
 
@@ -13,6 +13,18 @@
     background-color: rgb(21, 21, 21);
 }
 
-@media screen and (max-width: 960px) {
+.navbar-collapse ul li {
+    color: #fff;
+}
+
+/** 
+* Small deer ni .con 720px awaarai
+* Medium Tab 768px -- 992px .con 720px
+* Medium Tab 992px -- 1200px .con 960px
+* medeej wrapper 10px-20px bna
+* Tab version min-width: 768px
+* Desktop version min-width: 1200px
+**/
+@media screen and (min-width: 768px) {
     
 }
