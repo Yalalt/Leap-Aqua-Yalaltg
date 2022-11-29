@@ -18,6 +18,9 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 5. **Өндөр жилийг мөн бишийг харуулах**
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/leafyear/
 - Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/leafyear/index.html
+6. **Хоолны үнэнд ноогдох татвар бодож харуулах**
+- Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/orgil-bagsh/
+- Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/orgil-bagsh/index.html
 --------------------------
 
 1. **Bootstrap дээр хийсэн Байгууллагын судалгаа**
