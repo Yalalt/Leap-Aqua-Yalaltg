@@ -101,6 +101,13 @@ footer a {
     text-decoration: none
 }
 
+.footer-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .row{
     display: flex;
     flex-direction: column;
@@ -125,6 +132,13 @@ footer a {
         padding-bottom: 20px;
         
     }
+
+    .footer-wrapper {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
 }
 
 @media screen and (max-width: 610px) {
@@ -134,7 +148,6 @@ footer a {
     
     .row > * {
         width: 100%;
-        border: red solid 10px;
     }
 }
 
