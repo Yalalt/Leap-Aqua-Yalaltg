@@ -15,6 +15,7 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 4. **Cурагчдын дүн үнэлгээг харуулах**
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/dununelgee/index.html
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/dununelgee/main.js
+- Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/dununelgee/index.html
 --------------------------
 
 1. **Bootstrap дээр хийсэн Байгууллагын судалгаа**
