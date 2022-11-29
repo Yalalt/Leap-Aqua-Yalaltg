@@ -71,7 +71,7 @@ console.log("---- 12. Toirgiin talbai oloh ----");
 //12. Dugui dvrsnii talbai oloh
 let radius = 3;
 const pi = 3.1415;
-let squareCircle = pi * (radius * radius);
+let squareCircle = pi * (radius ** 2);
 console.log("Circle square is r-" + radius + " : " + squareCircle);
 
 console.log("--");
