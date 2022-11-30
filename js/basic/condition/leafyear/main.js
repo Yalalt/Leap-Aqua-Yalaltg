@@ -1,5 +1,7 @@
 let leafYear = 2022;
 
+
+
 if (leafYear % 4 === 0) {
   if (leafYear % 100 !== 0) {
     console.log(leafYear + " > Өндөр жил мөн байна.");
