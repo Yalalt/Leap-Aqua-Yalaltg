@@ -27,6 +27,9 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 8. **2 toonii hoorondoh too generate hiij oloh**
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/randomNumbers/main.js
 - Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/randomNumbers/index.html
+9. **Temuulen Narmandakh bagshiin Easy assignment - бодлогууд**
+- Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/temuulenNarmandakh/dun.js
+- Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/temuulenNarmandakh/index.html
 
 
 
