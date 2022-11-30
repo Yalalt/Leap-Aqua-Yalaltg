@@ -24,9 +24,9 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 7. **4 input number's Min number бодож харуулах**
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/fourNumberMin/main.js
 - Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/fourNumberMin/index.html
-
-
-
+8. **2 toonii hoorondoh too generate hiij oloh**
+- Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/randomNumbers/main.js
+- Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/randomNumbers/index.html
 
 
 

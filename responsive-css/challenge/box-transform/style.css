@@ -43,7 +43,7 @@ body {
 .box-cover {
     display: inline-block;
     background-color: rgb(27, 27, 27);
-    opacity: 0.5;
+    filter: opacity(50%);
     width: 200px;
     height: 200px;
     z-index: 2;
@@ -54,47 +54,47 @@ body {
 
 #cover11:hover {
     transform: scale(2) translateX(-75%) translateY(-75%) rotate(-28deg);
-    opacity: 0;
+    filter: opacity(0%);
     transition: all 0.5s ease-in-out;
 }
 #cover12:hover {
     transform: scale(2) translateX(0) translateY(-80%) rotate(0);
-    opacity: 0;
+    filter: opacity(0%);
     transition: all 0.5s ease-in-out;
 }
 #cover13:hover {
     transform: scale(2) translateX(80%) translateY(-80%) rotate(-28deg);
-    opacity: 0;
+    filter: opacity(0%);
     transition: all 0.5s ease-in-out;
 }
 #cover21:hover {
     transform: scale(2) translateX(-80%) translateY(0) rotate(0);
-    opacity: 0;
+    filter: opacity(0%);
     transition: all 0.5s ease-in-out;
 }
 #cover22:hover {
     transform: scale(2) translateX(0) translateY(0) rotate(0);
-    opacity: 0;
+    filter: opacity(0%);
     transition: all 0.5s ease-out;
 }
 #cover23:hover {
     transform: scale(2) translateX(80%) translateY(0) rotate(0);
-    opacity: 0;
+    filter: opacity(0%);
     transition: all 0.5s ease-in-out;
 }
 #cover31:hover {
     transform: scale(2) translateX(-80%) translateY(80%) rotate(0);
-    opacity: 0;
+    filter: opacity(0%);
     transition: all 0.5s ease-in-out;
 }
 #cover32:hover {
     transform: scale(2) translateX(0) translateY(80%) rotate(0);
-    opacity: 0;
+    filter: opacity(0%);
     transition: all 0.5s ease-in-out;
 }
 #cover33:hover {
     transform: scale(2) translateX(80%) translateY(80%) rotate(0);
-    opacity: 0;
+    filter: opacity(0%);
     transition: all 0.5s ease-in-out;
 }
 
