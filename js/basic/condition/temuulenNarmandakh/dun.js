@@ -49,7 +49,9 @@ console.log("");
 
 let m = 8;
 
-if (m % 3 === 0) {
+if (m % 3 === 0 && m % 7 === 0) {
+  console.log(m + " тоо нь 3 bolon 7-iin үржвэр мөн байна.");
+} else if(m % 3 === 0) {
   console.log(m + " тоо нь 3-iin үржвэр мөн байна.");
 } else if (m % 7 === 0) {
   console.log(m + " тоо нь 7-iin үржвэр мөн байна.");
