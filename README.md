@@ -30,6 +30,9 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 9. **Temuulen Narmandakh bagshiin Easy assignment - бодлогууд**
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/temuulenNarmandakh/dun.js
 - Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/temuulenNarmandakh/index.html
+10. **3 тооны нийлбэр олох assignment 999**
+- Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/threeNumbersadd/main.js
+- Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/threeNumbersadd/index.html
 
 
 
