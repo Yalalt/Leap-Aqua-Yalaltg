@@ -51,6 +51,10 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/assignment/true/main.js
 - Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/assignment/true/index.html
 
+15. **Өгөгдсөн 4 тооны 80-с их, 5-с бага тоонуудын нийлбэр үржвэр олох**
+- Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/orgil/nemXac/main.js
+- Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/orgil/nemXac/index.html
+
 
 
 
