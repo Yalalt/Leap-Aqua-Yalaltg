@@ -1,6 +1,7 @@
-let dateDay = "2022/9/1";
+// let dateDay = "2022/9/1";
 // let dateDay = '2023,8,3';
 // let dateDay = '2024.12.1';
+let dateDay = prompt("Он сар өдрөө оруулна уу", "2022/9/2");
 
 let yyPart, mmPart, ddPart;
 let dateFull = "";
