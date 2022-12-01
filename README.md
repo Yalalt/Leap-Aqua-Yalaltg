@@ -34,6 +34,11 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/threeNumbersadd/main.js
 - Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/threeNumbersadd/index.html
 
+**Strings**
+11. **2009/9.8 --> 2009-09-08 болгох хөрвүүлэлт хийх даалгавар**
+- Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/dateTimeCheck/main.js
+- Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/dateTimeCheck/index.html
+
 
 
 
