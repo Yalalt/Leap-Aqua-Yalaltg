@@ -43,6 +43,10 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/phoneNumberCheck/main.js
 - Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/phoneNumberCheck/index.html
 
+13. **General Triangle A B awj C taliig oloh**
+- Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/gurbaljinPeri/main.js
+- Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/gurbaljinPeri/index.html
+
 
 
 
