@@ -39,6 +39,10 @@ Leap 2022 хөтөлбөрийн Aqua ангийн суралцагч. Repositor
 - Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/dateTimeCheck/main.js
 - Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/dateTimeCheck/index.html
 
+12. **Утасны дугаар шалгах даалгавар 88998899**
+- Code links: https://github.com/Yalalt/Leap-Aqua-Yalaltg/tree/main/js/basic/condition/phoneNumberCheck/main.js
+- Open Page: https://yalalt.github.io/Leap-Aqua-Yalaltg/js/basic/condition/phoneNumberCheck/index.html
+
 
 
 
