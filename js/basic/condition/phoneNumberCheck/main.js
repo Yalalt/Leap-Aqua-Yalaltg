@@ -1,9 +1,11 @@
 // let phoneNumber = 99061299;
 // let phoneNumber = 98061299;
 // let phoneNumber = 92061299;
-let phoneNumber = 91061299;
+// let phoneNumber = 91061299;
 // let phoneNumber = 11061299;
 // let phoneNumber = 1106129948;
+
+let phoneNumber = Number(prompt("Утасны дугаараа оруулна уу"));
 
 if(Number.isInteger(Number(phoneNumber)) && phoneNumber.toString().length === 8){
     let num2pre =  Number(phoneNumber.toString().substring(0, 2));
