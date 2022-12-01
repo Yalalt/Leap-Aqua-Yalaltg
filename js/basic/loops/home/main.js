@@ -1,17 +1,24 @@
-// Loop
-// While
-
-let num = 100;
 let count = 1;
-let cols = 0;
-let stars = "";
+let ouput = "";
+let aa = 1;
+let bb = 1;
+let cc = 2;
+let temp = 0;
+let strRow = "";
+let rows = 0;
 
-while (num > 0){
-  while(cols < count){
-    stars += "*";
+while(rows < 10) {
+  let xx = 10;
+  while (xx > 0) {
+    strRow += " * ";
+    // aa = bb;
+    // bb= cc;
+    // cc = aa + bb;
+    // strRow = strRow + aa + "\t";
+    xx--;
   }
+  strRow += "\n";
+  rows++;
+}
 
-} 
-
-console.log("Count 100#3: " + count);
-
+console.log(strRow);
