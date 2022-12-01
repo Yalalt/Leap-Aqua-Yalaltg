@@ -76,3 +76,15 @@ if (wrkDay >= 1 && wrkDay <= 5) {
 } else {
   console.log("Сайн байна уу? Та энд зөвхөн 7 хоногийн өдөр оруулж болно.");
 }
+
+
+console.log("\n5-р бодлогын хариулт:");
+
+let hours = Number(prompt("5-р бодлогын асуулт\nДолоо хоногт ажилласан цагын оруулна уу"));
+let ratePerHour = Number(prompt("5-р бодлогын асуулт\nҮнэлгээг 10 - 28 хүртэл тоогоор үнэлнэ.\nТухайн хүний ажлын үнэлгээг оруулна уу"));
+
+hours = hours != null ? hours : 40;
+ratePerHour = ratePerHour != null? ratePerHour : 28;
+
+let calcPrice = hours * ratePerHour;
+console.log("Бодогдсон цалин: " + calcPrice);
